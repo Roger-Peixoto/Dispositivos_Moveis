@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets"
+        xmlns:gap="http://phonegap.com/ns/1.0"
+        id="RogerioPeixoto"
+        version="1.0.0">
+
+    <name>Menu Só de Cenoura</name>
+
+    <description>
+        Menu do restaurante Só de Cenoura - Dispositivos Móveis.
+    </description>
+
+    <preference name="orientation" value="portrait" />
+    <preference name="fullscreen" value="true" />
+    <preference name="permissions" value="none" />
+    <preference name="android-minSdkVersion" value="16" />
+    <gap:platform name="android" /> 
+    <icon src="icon.png" /> 
+    
+
+    <author href="RogerioPeixoto" email="rogerio.peixoto@fatec.sp.gov.br">
+        RogérioPeixoto
+    </author>
+    
+</widget>
